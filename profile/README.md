@@ -22,7 +22,7 @@ TODO:
 1. Pre-process MRI data via : [func_preprocess](https://github.com/labarlab-emorep/func_preprocess)
 1. Model functional MRI data via : *func_model*
 1. Preprocess and model archival data via : *func_archival*
-1. Aggregate task and survey responses via : *make_reports*
+1. Aggregate task and survey responses via : [make_reports](https://github.com/labarlab-emorep/make_reports)
 1. Clean and classify physio data via : *physio_process*
 1. Classify functional MRI data via : *classify_func*
 1. Apply classification to rsFMRI data via : *classify_rest*
