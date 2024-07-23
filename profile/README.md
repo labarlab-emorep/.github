@@ -21,7 +21,7 @@ TODO:
 1. Check data quality via : [func_mriqc](https://github.com/labarlab-emorep/func_mriqc)
 1. Pre-process MRI data via : [func_preprocess](https://github.com/labarlab-emorep/func_preprocess)
 1. Model functional MRI data via : [func_model](https://github.com/labarlab-emorep/func_model)
-1. Preprocess and model archival data via : *func_archival*
+1. Preprocess and model archival data via : [func_archival](https://github.com/labarlab-emorep/func_archival)
 1. Aggregate task and survey responses via : [make_reports](https://github.com/labarlab-emorep/make_reports)
 1. Clean and classify physio data via : *physio_process*
 1. Classify functional MRI data via : *classify_func*
