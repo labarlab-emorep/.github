@@ -16,7 +16,7 @@ TODO:
 
 ### Basic workflow:
 
-1. Conduct task protocol, which involves presenting task during simulatenout acquistion of MRI and physio data : *scanner_tasks*
+1. Collect simultaneous fMRI and physio data during task presentation : *scanner_tasks*
 1. Build BIDS rawdata data structures from acquired sourcedata and NKI archive via : [build_rawdata](https://github.com/labarlab-emorep/build_rawdata)
 1. Check data quality via : [func_mriqc](https://github.com/labarlab-emorep/func_mriqc)
 1. Pre-process MRI data via : [func_preprocess](https://github.com/labarlab-emorep/func_preprocess)
