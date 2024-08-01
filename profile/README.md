@@ -25,6 +25,6 @@ TODO:
 1. Aggregate task and survey responses: [make_reports](https://github.com/labarlab-emorep/make_reports)
 1. Clean and classify physio data: *physio_process*
 1. Classify functional MRI data: *classify_func*
-1. Apply classification to rsFMRI data: *classify_rest*
+1. Apply classification to rsFMRI data: [classify_rest](https://github.com/labarlab-emorep/classify_rest)
 1. Model rsFMRI classification: *rsfmri_hmm*
 
