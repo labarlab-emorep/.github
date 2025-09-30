@@ -27,4 +27,4 @@ TODO:
 1. Classify functional MRI data: *classify_func*
 1. Apply classification to rsFMRI data: [classify_rest](https://github.com/labarlab-emorep/classify_rest)
 1. Model rsFMRI classification: *rsfmri_hmm*
-
+1. Decode arousal and valence from fMRI data: *av_regression*
